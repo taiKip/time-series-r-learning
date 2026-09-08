@@ -1,0 +1,22 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / generated files
+*.rds
+*.RData
+
+# Temporary files
+*.tmp
+*.bak
+
+# Quarto / R Markdown
+*_cache/
+*_files/
